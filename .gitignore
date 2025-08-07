@@ -180,3 +180,4 @@ pyrightconfig.json
 # local output files
 .bkmks
 bookmarks.json
+!src/domain/entities/whitelist/__mocks__/.bkmks

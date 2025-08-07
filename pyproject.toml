@@ -1,2 +1,16 @@
+[project]
+name = "bmarks"
+version = "0.1.0"
+description = "Browser bookmark exporter CLI tool"
+readme = "README.md"
+requires-python = ">=3.13.3"
+dependencies = ["pathspec==0.12.1", "questionary==2.1.0"]
+
 [tool.pytest.ini_options]
-pythonpath = ". src"
+pythonpath = ["src"]
+
+[dependency-groups]
+dev = [
+    "pyinstaller>=6.15.0",
+    "pytest>=8.4.1",
+]

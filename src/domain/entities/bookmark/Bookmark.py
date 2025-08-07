@@ -8,6 +8,7 @@ class Bookmark(JSONable):
     """
     A browser bookmark.
     """
+
     name: str
     url: str
 

@@ -1,6 +1,6 @@
 import pytest
-from src.domain.entities.bookmark.Bookmark import Bookmark
-from src.domain.entities.folder.Folder import Folder
+from domain.entities.bookmark.Bookmark import Bookmark
+from domain.entities.folder.Folder import Folder
 
 mocked_bookmark = Bookmark(name="Test Bookmark", url="https://www.example.com/")
 

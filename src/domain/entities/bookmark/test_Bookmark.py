@@ -1,5 +1,5 @@
 import pytest
-from src.domain.entities.bookmark.Bookmark import Bookmark
+from domain.entities.bookmark.Bookmark import Bookmark
 
 
 class TestBookmark:

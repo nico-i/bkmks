@@ -107,4 +107,4 @@ make install
 
 ## Contributing
 
-PRs for the support of other browser are very much welcome! Check out the [bookmark adapters directory](./src/infrastructure/persistance/adapters/bookmark) to see which browsers are currently supported
+PRs for the support of other browser are very much welcome! Check out the [bookmark adapters directory](./src/infrastructure/persistance/adapters/bookmark) to see which browsers are currently supported.

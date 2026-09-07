@@ -1,5 +1,18 @@
 # Changelog
 
+## [2.1.0](https://github.com/nico-i/bkmks/compare/v2.0.0...v2.1.0) (2026-09-07)
+
+
+### Features
+
+* added test action ([2874db0](https://github.com/nico-i/bkmks/commit/2874db0f6d5618e662ea0f259538057357d325cf))
+
+
+### Bug Fixes
+
+* **deps:** update dependency questionary to v2.1.1 ([#35](https://github.com/nico-i/bkmks/issues/35)) ([153273a](https://github.com/nico-i/bkmks/commit/153273a96b927ba4239f1e41795c2ef194218f62))
+* tests, removed __init__ files, added uv package manager ([da013a6](https://github.com/nico-i/bkmks/commit/da013a6a691bd92f67537141b51a7d71c8123c0d))
+
 ## [2.0.0](https://github.com/nico-i/bkmks/compare/v0.1.1...v2.0.0) (2024-10-10)
 
 
